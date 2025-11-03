@@ -1,5 +1,5 @@
 # Associate Data Engineer in SQL
-
+https://www.datacamp.com/certificate/DEA0014454375692 
 <img width="942" height="567" alt="image" src="https://github.com/user-attachments/assets/35b1405b-1f20-404a-a95d-2120180e74bb" />
 
 My goal is to enhance my skills as an Analytics Engineer, a role who handls both Data Engineering and Data Analytics. By the time of the course track I had already developed the abilities in PostgreSQL, ETL, Relational Databases, Aws and Azure cloud ecosystems.
